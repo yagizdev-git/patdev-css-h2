@@ -1,0 +1,14 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+}
+img {
+  position: relative;
+  top: 50%;
+  left: 38.5%;
+}
+table {
+  margin: auto;
+  width: 90%;
+  text-align: center;
+}
